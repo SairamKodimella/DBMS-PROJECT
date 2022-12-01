@@ -5,7 +5,7 @@ Group- 2<br>
 Operation:-<b>To Delete d1 from Depot and Stock</b>
 <br><br>
 ## ERD DIAGRAM
-<img src="C:\Users\sonu_\IdeaProjects\project-cs623\ERD1.png"/></img>
+<img src="./ERD1.png"/></img>
 <br><br>
 
 <a href='https://www.google.com'>Video Link coming soon</a>
