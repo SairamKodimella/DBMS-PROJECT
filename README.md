@@ -1,6 +1,6 @@
 ## DBMS PROJECT CS-623 GROUP2
 Course name: CS623-DBMS-Fall2022<br>
-Collaborators: <b>Sairam Kodimella</b> and <b>Gnanendrakumar Devera</b><br>
+Collaborators: <b>Sairam Kodimella</b> and <b>Gnanendrakumar Devara</b><br>
 Group- 2<br>
 Operation:-<b>To Delete d1 from Depot and Stock</b>
 <br><br>
