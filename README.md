@@ -8,7 +8,7 @@ Operation:-<b>To Delete d1 from Depot and Stock</b>
 <img src="./ERD1.png"/></img>
 <br><br>
 
-<a href='https://youtu.be/Um2Ixdxdqc8'>Video Link</a>
+<a href='https://www.google.com'>Video Link comming soon</a>
 
 ## Summary:
 1. We first created the database schema and populated the tables with the given data the script is also added in the repo
