@@ -1,6 +1,6 @@
 ## DBMS PROJECT CS-623 GROUP2
 Course name: CS623-DBMS-Fall2022<br>
-Collaborators: <b>Sairam Kodimella</b> and <b>Gnanendrakumar Devara</b><br>
+Collaborators: <b>Sairam Kodimella</b> and <b>Gnanender Devara</b><br>
 Group- 2<br>
 Operation:-<b>To Delete d1 from Depot and Stock</b>
 <br><br>
@@ -8,7 +8,7 @@ Operation:-<b>To Delete d1 from Depot and Stock</b>
 <img src="./ERD1.png"/></img>
 <br><br>
 
-<a href='https://www.google.com'>Video Link comming soon</a>
+<a href='https://www.google.com'>Video Link coming soon</a>
 
 ## Summary:
 1. We first created the database schema and populated the tables with the given data the script is also added in the repo
